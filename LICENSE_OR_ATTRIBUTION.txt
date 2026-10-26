@@ -1,0 +1,17 @@
+ThreadSync — Thread Synchronization and Thread Priority Simulator
+Java Multithreading Educational Project
+
+This project is created for educational and academic purposes.
+
+Technologies used:
+  - Java SE (OpenJDK 17+) — GPL v2 with Classpath Exception
+  - Java Swing — part of Java SE standard library
+  - pptxgenjs (npm) — MIT License (used for generating project deliverables only, not part of the Java app)
+  - docx (npm) — MIT License (used for generating project deliverables only, not part of the Java app)
+
+All source code in src/ is original work. No third-party Java libraries are used.
+
+You are free to use, modify, and distribute this project for academic purposes.
+Commercial use requires attribution.
+
+Generated: 2024-25
